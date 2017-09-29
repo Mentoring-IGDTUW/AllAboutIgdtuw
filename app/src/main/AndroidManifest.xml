@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
+    package="com.apps.nishtha.allaboutigdtuw">
+=======
     package="io.github.mentoring_igdtuw.allaboutigdtuw">
+>>>>>>> b82410c96dac150003be410b29674a64c9c8a9ce
 
     <application
         android:allowBackup="true"
@@ -9,7 +13,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+<<<<<<< HEAD
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+=======
         <activity android:name=".MainActivity">
+>>>>>>> b82410c96dac150003be410b29674a64c9c8a9ce
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
