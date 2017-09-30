@@ -1,5 +1,4 @@
 <resources>
-<<<<<<< HEAD
     <string name="app_name">All About Igdtuw</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -19,7 +18,4 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="igdtuw">IGDTUW</string>
 
-=======
-    <string name="app_name">AllAboutIgdtuw</string>
->>>>>>> b82410c96dac150003be410b29674a64c9c8a9ce
 </resources>
