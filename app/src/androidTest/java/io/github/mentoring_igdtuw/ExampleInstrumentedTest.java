@@ -1,4 +1,4 @@
-package io.github.mentoring_igdtuw.allaboutigdtuw;
+package io.github.mentoring_igdtuw;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("io.github.mentoring_igdtuw.allaboutigdtuw", appContext.getPackageName());
+        assertEquals("com.apps.nishtha.allaboutigdtuw", appContext.getPackageName());
     }
 }

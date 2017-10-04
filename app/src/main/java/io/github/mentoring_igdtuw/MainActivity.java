@@ -1,4 +1,4 @@
-package com.apps.nishtha.allaboutigdtuw;
+package io.github.mentoring_igdtuw;
 
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
@@ -11,8 +11,8 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.apps.nishtha.allaboutigdtuw.fragments.EventsFragment;
-import com.apps.nishtha.allaboutigdtuw.fragments.SocietiesFragment;
+import io.github.mentoring_igdtuw.fragments.EventsFragment;
+import io.github.mentoring_igdtuw.fragments.SocietiesFragment;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {

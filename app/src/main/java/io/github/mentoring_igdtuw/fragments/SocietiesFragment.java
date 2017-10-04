@@ -1,4 +1,4 @@
-package com.apps.nishtha.allaboutigdtuw.fragments;
+package io.github.mentoring_igdtuw.fragments;
 
 
 import android.os.Bundle;
@@ -7,15 +7,15 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.apps.nishtha.allaboutigdtuw.R;
+import io.github.mentoring_igdtuw.R;
 
 /**
  * A simple {@link Fragment} subclass.
  */
-public class EventsFragment extends Fragment {
+public class SocietiesFragment extends Fragment {
 
 
-    public EventsFragment() {
+    public SocietiesFragment() {
         // Required empty public constructor
     }
 
@@ -23,8 +23,7 @@ public class EventsFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_events, container, false);
+        return inflater.inflate(R.layout.fragment_societies, container, false);
     }
 
 }

@@ -1,4 +1,4 @@
-package com.apps.nishtha.allaboutigdtuw;
+package io.github.mentoring_igdtuw;
 
 import org.junit.Test;
 
